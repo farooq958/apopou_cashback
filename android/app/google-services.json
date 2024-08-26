@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "417438986616",
+    "project_id": "apopou-notif",
+    "storage_bucket": "apopou-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417438986616:android:cbecbc7b9f68fd18f3988d",
+        "android_client_info": {
+          "package_name": "com.cashback.apopou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417438986616-n1p8i4re6s748gti7j1dn4fsfb7cl6s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASzzzhjHyj8ImhIbDsIYieCkU4UrRoBzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417438986616-mp0j6s4t5k0j7nvqofv5pu24pfjhnl36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417438986616-7p515kvvo8irvdr6i0s2q2mgqdfkbnn4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cashback"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

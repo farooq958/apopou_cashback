@@ -1,0 +1,1 @@
+export  'package:cashback/view/custom_widgets/custom_text_widget.dart';
